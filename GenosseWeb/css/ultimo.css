@@ -1,0 +1,159 @@
+.bajar {
+	
+}
+/* Cajas3 */
+ .call-outs-container2{
+	 max-width:1000px;
+	 margin: 35px auto 0 auto;
+	 display:flex;
+	 
+    /* Sombra superior sin desenfoque */
+    box-shadow: 20px 5px 5px 2px #636466;
+ }
+.call-out2{
+	 padding:100px;
+	 margin-bottom:0px;
+	 flex: 1;
+	 color:white;
+
+}
+.call-out2:nth-child(1) h4 {
+	font-size:50px;
+	color:black;
+}
+
+
+
+.call-out2:nth-child(1) p {
+  height:4px;
+  width: 60%;
+font-size:20px;
+color:black;
+	 
+}
+
+.call-out2:nth-child(1){background-color:white;}	
+.call-out2:nth-child(2){background:url("../img/form_background.png ") no-repeat;}
+
+
+
+
+/* ------------------ */
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------------------ */
+ .call-outs-container4{
+	 max-width:100px;
+	 margin: 10px 10px 10px 10px;
+	 display:flex;
+	 
+    /*  box-shadow: 20px 5px 5px 2px #6d6d62; */
+    
+ }
+.call-out4{
+	 padding:170px 350px 10px 10px;
+	 margin-bottom:10px;
+	 flex: 1;
+	 color:white;
+	 margin-left:200px;
+margin-right:60px;
+}
+
+
+
+
+
+
+
+.call-out4:nth-child(1){background:url("../img/form_background.png ") no-repeat;}
+.call-out4:nth-child(2){background:url("../img/form_background.png ") no-repeat;}
+
+ 
+ 
+ .call-outs-container4{
+	 max-width:100px;
+	 margin: 10px 10px 10px 10px;
+	 display:flex;
+	 
+    /*  box-shadow: 20px 5px 5px 2px #6d6d62; */
+    
+ }
+ 
+
+ 
+ 
+ 
+ 
+ 
+ /* Cajas */
+ .call-outs-container9{
+	 max-width:80%;
+	 margin: 40px auto 0 auto;
+	 display:flex;
+	
+   
+ }
+ .call-out9{
+	 
+	
+	 flex: 1;
+	 color:white;
+	 margin-right:20px;
+   box-shadow: 20px 5px 5px 2px #636466;
+ }
+	 
+.call-out9:nth-child(1){background-color:#ffffff;}
+.call-out9:nth-child(2){background-color:#ffffff;}
+
+ .call-out9:nth-child(1) img {
+ max-width:100%;
+
+ }
+ 
+ 
+ 
+ .call-out9:nth-child(1) p {
+color:#000000;
+
+ }
+  
+ .call-out9:nth-child(1) h4 {
+color:#000000;
+font-size:30px;
+text-align:center;
+
+ }
+
+ .call-out9:nth-child(2) img {
+ max-width:100%;
+
+ }
+ .call-out9:nth-child(2) p {
+color:#000000;
+
+ }
+  
+ .call-out9:nth-child(2) h4 {
+color:#000000;
+font-size:30px;
+text-align:center;
+
+ }
+ 
+
+ 
+ 
