@@ -1,0 +1,65 @@
+				*{
+				margin: 0;
+				padding: 0;
+				box-sizing: border-box;
+				font-family: 'Open Sans', sans-serif;
+			
+		}
+		.circle{
+			position: relative;
+			overflow: hidden;
+		}
+		.circle.circle1{
+			width: 220px;
+			height: 220px;
+			margin-left:10%; 
+			margin-top: -10%;
+			border-radius: 50%;
+			
+			background: black;
+		}
+		.circle.circle2{
+
+			width: 220px;
+			height: 220px;
+			margin-left:70%;  
+			border-radius: 50%;
+			margin-top: -8%;
+			background: black;
+		}
+		.circle.circle3{
+			width: 200px;
+			height: 200px;
+			margin-top: -40%;
+			border-radius: 70%;
+			margin-left:30%;
+			background: black;
+		}
+		.circle.circle4{
+			width: 240px;
+			height: 240px;
+			margin-top: -10%;
+			border-radius: 70%;
+			margin-left:45%;
+			background: black;
+		}
+		.circle img{
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			object-fit:cover;
+		}
+		section h1{
+padding: 50px;
+			color: white;
+			font-size: 2em;
+			text-align: center;
+			
+		}
+		section h2{
+			margin: 50px;
+			font-size: 5em;
+		}
+	
