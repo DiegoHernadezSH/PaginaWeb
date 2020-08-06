@@ -1,0 +1,14 @@
+.barra a{
+font-family: 'Agency FB', arial;
+font-size: 20px;
+}
+.titulos1 h1{
+font-family: 'Agency FB', arial;
+}
+.card-title{
+	 font-family: 'Open Sans', sans-serif;
+}
+.card-content p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+}
