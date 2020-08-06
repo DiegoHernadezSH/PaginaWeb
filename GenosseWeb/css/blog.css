@@ -1,0 +1,53 @@
+.blog{
+	font-size:70px;
+	color:#fce300;
+	margin-left: 70px;
+	font-family: 'Agency FB', arial;
+}
+
+ .call-outs-container2{
+	 max-width:85%;
+	
+	 margin: 35px auto 0 auto;
+	 display:flex;
+ }
+.call-out2{
+	 padding:17%;
+
+	 flex: 1;
+	 color:white;
+
+}
+.call-out2:nth-child(1) h4 {
+margin-top: -90px;
+	font-size:50px;
+	color:black;
+	 font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.call-out2:nth-child(1) p {
+  width: 90%;
+font-size:1rem;
+color:black;
+font-family: 'Agency FB', arial;
+text-align: justify;
+}
+.call-out3:nth-child(2){
+ width: 15%;
+	}
+.call-out2:nth-child(1) a{
+
+position:relative;
+display:inline-block;
+border:2px solid #fce300;
+padding:15px 50px;
+color:var(--black);
+font-weight:700;
+font-family: 'Open Sans', sans-serif;
+text-decoration:none;
+background:#fce300;
+}
+.call-out2:nth-child(1){background-color:white;}	
+.call-out3:nth-child(2){background:url("../img/blog.jpg ") no-repeat;}
