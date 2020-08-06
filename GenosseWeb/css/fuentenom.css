@@ -1,0 +1,34 @@
+.tit h4{
+	font-family: 'Agency FB', arial;
+font-size: 500% ;
+}
+.about-right h2{
+		font-family: 'Open Sans', sans-serif;
+	font-size: 250% ;
+}
+.about-right p{
+		font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+}
+ 
+ .nec h2{
+font-family: 'Open Sans', sans-serif;
+ }
+ .col-md-4 h2{
+ 	font-family: 'Open Sans', sans-serif;
+ }
+ .col-md-4 p{
+ 	font-family: 'Open Sans', sans-serif;
+ }
+ .col-md-4 a{
+ 	font-family: 'Agency FB', arial;
+ 	font-size: 15px;
+ }
+ .customwidget h1{
+ 	font-family: 'Agency FB', arial;
+ 	font-size: 70px;
+ }
+ .customwidget a{
+ 	font-family: 'Agency FB', arial;
+ 	font-size: 30px;
+ }
