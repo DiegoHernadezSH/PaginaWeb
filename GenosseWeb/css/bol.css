@@ -1,0 +1,100 @@
+.circle{
+			position: relative;
+			overflow: hidden;
+		}
+		.circle.circle1{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #fce300;
+		}
+		.circle.circle2{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #a2df70;
+		}
+		.circle.circle3{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #69ac31;
+		}
+		.circle.circle4{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #39e5c3;
+		}
+		.circle.circle5{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #3997e5;
+		}
+		.circle.circle6{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #0627cd;
+		}
+		.circle.circle7{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #de37ff;
+		}
+		.circle.circle8{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #ffb7fb;
+		}
+		.circle.circle9{
+			width: 20px;
+			height: 20px;
+margin-top: -22px;
+			border-radius: 50%;
+			
+			background: #f73030;
+		}
+		
+		.lolo{
+			margin-left: 35px;
+			font-size: 20px;
+			color: white;
+			 
+			
+		}
+		/* Cajas */
+ .call-outs-container{
+	 max-width:1400px;
+	 margin: 40px auto 0 auto;
+	 display:flex;
+ }
+ .call-out{
+	 padding:100px;
+	 margin-bottom:20px;
+	 flex: 1;
+	 color:white;
+ }
+	 
+.call-out:nth-child(1){background-color:#000;}
+.call-out:nth-child(2){background-color:#000;}
+.call-out:nth-child(3){background-color:#000;}
