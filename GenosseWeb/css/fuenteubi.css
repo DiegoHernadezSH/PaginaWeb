@@ -1,0 +1,15 @@
+.card-body h1 {
+font-family: 'Agency FB', arial;
+font-size: 70px;
+}
+.card-body a{
+	font-family: 'Open Sans', sans-serif;
+}
+.card-title{
+	font-family: 'Agency FB', arial;
+	font-size: 40px;
+}
+.card-text{
+	font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+}
