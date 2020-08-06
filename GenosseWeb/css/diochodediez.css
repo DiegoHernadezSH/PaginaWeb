@@ -1,0 +1,63 @@
+.porcentaje{
+	 box-sizing:border-box;
+float:left;
+margin:2%;
+padding:1%;
+color:#ffffff;
+
+
+}
+
+.porcentaje{
+	
+	font-size:20px ;
+
+}
+
+.porcentaje h2 {
+	
+	font-size:50px ;
+	text-align:center;
+	
+
+}
+
+.porcentaje p {
+	
+	font-size:25px ;
+	text-align:justify;
+	
+
+}
+
+
+.porcentaje:nth-child(1){background-color:#000000;}
+.porcentaje:nth-child(2){background-color:#000000;}
+.porcentaje:nth-child(3){background-color:#000000;}
+
+@media( min-width:1200px){
+	.porcentaje{
+		width:29%;
+
+
+		
+		}
+	
+}
+@media( min-width:768px){
+	.porcentaje{
+		width:29%;
+
+		
+		}
+	
+}
+
+
+ 
+
+ 
+
+    
+
+
