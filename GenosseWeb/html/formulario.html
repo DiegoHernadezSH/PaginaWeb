@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Contacto</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://allfont.net/allfont.css?fonts=agency-fb" rel="stylesheet" type="text/css"/>
+   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="../css/estilosform.css">
+	  <link rel="stylesheet" href="../css/cabnegra.css">
+       
+</head>
+<body>
+<br>
+<br>
+<br>
+ <header id="header">
+    <nav class="menu">
+     <div class="logo-box">
+       <h1><a href="../index.html"><img src="../img/logos/logo.png" width="200" height="55"></a></h1>
+       <span class="btn-menu"><i class="fas fa-bars"></i></span>
+     </div>
+     
+     <div class="list-container">
+        <ul class="lists">
+        <li><a href="Nosotros.html" style="color: #fce300;" >#Nosotros</a></li>
+        <li><a href="Productos.html" style="color: #fce300;">#Productos</a></li>
+        <li><a href="Somos_soluciones.html" style="color: #fce300;">#Soluciones</a></li>
+        <li><a href="servicios.html" style="color: #fce300;">#Servicios</a></li>
+        <li><a href="#" style="color: #fce300;">#Recursos</a></li>
+        <li><a href="consulta.html" style="color: #fce300;">#Soporte</a></li>
+        <li><a href="blog.html" style="color: #fce300;">#Blog</a></li>
+        </ul>
+     </div>
+    </nav>
+    </header>
+
+    <div class="contenedor">
+<div class="con">
+        <h1 >Contacto </h1>
+</div>
+        <div class="contenido">
+
+            <div class="info">
+
+                <div class="col">
+                    <i class="icono fas fa-map-marker-alt"></i>
+                    <p>Av. 26 de julio Nro. 8 Ciudad - País</p>
+                </div>
+
+                <div class="col">
+                    <i class="icono fas fa-envelope"></i>
+                    <p>consulta@correo.com</p>
+                </div>
+
+                <div class="col">
+                    <i class="icono fas fa-phone"></i>
+                    <p>(01) 6262-222 <br> (01) 3343-543</p>
+                </div>
+
+                
+
+            </div>
+
+            <form action="insertar.php" method="post" class="formulario">
+
+                <input type="text" name="nombre" placeholder="Nombre" id="nombre">
+                <input type="text" name="correo" placeholder="Correo electróico" id="correo">
+                <input type="text" name="empresa" placeholder="Empresa " id="asunto">
+                <textarea name="mensaje" id="mensaje" placeholder="Mensaje"></textarea>
+                <button type="button" name="enviar datos" onclick="validarFormulario()" >Enviar</button>
+
+
+            </form>
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="../js/formulario.js"></script>
+	<script src="../js/app.js"></script>
+</body>
+</html>
